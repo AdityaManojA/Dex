@@ -4,16 +4,16 @@ This repository contains a collection of research papers exploring the applicati
 
 ## Papers
 
-1. **[Blockchain-Based Secure Sharing Mechanism of Online Education](path/to/Blockchain-Based_Secure_Sharing_Mechanism_of_Online_Education.pdf)**
+1. **[Blockchain-Based Secure Sharing Mechanism of Online Education](Assets/Research%20papers/Blockchain-Based%20Secure%20Sharing%20Mechanism%20of%20Online%20Education.pdf)**
    - **Summary**: Proposes a blockchain-based model to enhance data sharing and security in online education. It addresses issues like data isolation and lack of trust in online learning environments.
 
-2. **[Management of Online Education Based on Blockchain](path/to/Management_of_Online_Education_Based_on_Blockchain.pdf)**
+2. **[Management of Online Education Based on Blockchain](Assets/Research%20papers/Management%20of%20Online%20Education%20Based%20on%20Blockchain.pdf)**
    - **Summary**: Discusses the application of blockchain for managing educational resources, student data, and certificates, highlighting the technology's ability to improve communication and security in the online education sector.
 
-3. **[Expedition to the Blockchain Application Potential for Higher Education Institutions](path/to/Expedition_to_the_Blockchain_Application_Potential_for_Higher_Education_Institutions.pdf)**
+3. **[Expedition to the Blockchain Application Potential for Higher Education Institutions](Assets/Research%20papers/Expedition%20to%20the%20Blockchain%20Application%20Potential%20for%20Higher%20Education%20Institutions.pdf)**
    - **Summary**: Explores various blockchain application scenarios in HEIs, including credential verification and record-sharing. The paper evaluates the effectiveness of different blockchain types and their potential benefits for HEI administration.
 
-4. **[Blockchain Research and Applications in Education](path/to/Blockchain_Research_and_Applications.pdf)**
+4. **[Blockchain Research and Applications in Education](Assets/Research%20papers/Blockchain%20Research%20and%20Applications.pdf)**
    - **Summary**: Examines the overarching potential of blockchain in education, focusing on its capacity to provide secure, transparent, and efficient data management solutions.
 
 ## Conclusion
