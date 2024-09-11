@@ -40,3 +40,12 @@ DeX distinguishes itself from traditional educational apps through its unique in
 ## Conclusion
 
 DeX is not just another educational app; it's a revolutionary platform that combines the power of AI and blockchain to create a smart, secure, and engaging learning experience. Join us in transforming the future of education with DeX!
+
+## License
+
+This project is licensed under a proprietary license. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact Aditya Manoj at [adityamanoja@gmail.com](mailto:adityamanoja@gmail.com).
+
